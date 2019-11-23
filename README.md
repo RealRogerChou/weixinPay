@@ -6,7 +6,7 @@
 一个PHP文件搞定支付宝系列请移步：https://github.com/realrogerchou/alipay
 
 # 在线演示
-https://www.yingluowang.com/wx/demo.html
+http://www.yingluowang.com/wx/demo.html
 
 # 环境依赖
 
